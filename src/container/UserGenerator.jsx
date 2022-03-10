@@ -9,7 +9,7 @@ const UserGenerator = () => {
 						Username Generator
 					</h1>
 					<p className="text-[18px]  leading-relaxed text-slate-800">
-						Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore
+						Lorema, ipsum dolor sit amet consectetur adipisicing elit. Dolore
 						perspiciatis consequatur eaque <br /> facilis eveniet possimus esse
 						doloremque!
 					</p>
